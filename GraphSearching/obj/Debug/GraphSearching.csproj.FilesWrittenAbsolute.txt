@@ -1,0 +1,5 @@
+/Users/steve/src/mono/GraphSearchingTests/GraphSearching/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/steve/src/mono/GraphSearchingTests/GraphSearching/bin/Debug/GraphSearching.dll.mdb
+/Users/steve/src/mono/GraphSearchingTests/GraphSearching/bin/Debug/GraphSearching.dll
+/Users/steve/src/mono/GraphSearchingTests/GraphSearching/obj/Debug/GraphSearching.dll
+/Users/steve/src/mono/GraphSearchingTests/GraphSearching/obj/Debug/GraphSearching.dll.mdb

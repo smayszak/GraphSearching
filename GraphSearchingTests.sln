@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphSearchingTests", "GraphSearchingTests\GraphSearchingTests.csproj", "{4FAEDAD6-F6D8-4212-A832-386F174B09C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphSearching", "GraphSearching\GraphSearching.csproj", "{B285D82D-162A-441A-8F47-FE4034C874C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "..\DataStructures\DataStructures\DataStructures.csproj", "{24EDD1AD-A6F1-424F-9601-D9177067504F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24EDD1AD-A6F1-424F-9601-D9177067504F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24EDD1AD-A6F1-424F-9601-D9177067504F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24EDD1AD-A6F1-424F-9601-D9177067504F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24EDD1AD-A6F1-424F-9601-D9177067504F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FAEDAD6-F6D8-4212-A832-386F174B09C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FAEDAD6-F6D8-4212-A832-386F174B09C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FAEDAD6-F6D8-4212-A832-386F174B09C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FAEDAD6-F6D8-4212-A832-386F174B09C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B285D82D-162A-441A-8F47-FE4034C874C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B285D82D-162A-441A-8F47-FE4034C874C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B285D82D-162A-441A-8F47-FE4034C874C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B285D82D-162A-441A-8F47-FE4034C874C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = GraphSearchingTests\GraphSearchingTests.csproj
+	EndGlobalSection
+EndGlobal
